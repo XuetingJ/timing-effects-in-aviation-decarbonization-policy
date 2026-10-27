@@ -4,8 +4,6 @@ Companion package for **"Evaluating timing effects in aviation decarbonization p
 
 Authors: Xueting Jiang, Raymundo Marcos-Martinez, Walter Okelo and Aditi Mankad (CSIRO). Contact: xueting.jiang@csiro.au.
 
-Status: supplementary material for a manuscript submitted to *Transportation Research Part A: Policy and Practice* (Special Issue: Recent Advances in Air Transport Policies), 2026. The full article citation will be added on publication.
-
 Repository: https://github.com/XuetingJ/timing-effects-in-aviation-decarbonization-policy. The same package is also supplied as a supplementary file with the manuscript.
 
 Licence: Creative Commons Attribution 4.0 International (CC BY 4.0), covering both code and data. Third-party source data remain subject to their original terms; see Inputs below.

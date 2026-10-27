@@ -1,0 +1,6 @@
+   output/
+   figures/
+   __pycache__/
+   .Rhistory
+   .RData
+   .DS_Store
